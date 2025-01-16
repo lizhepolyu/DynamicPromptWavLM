@@ -62,8 +62,6 @@ with **Zᵢ** ∈ ℝ<sup>D×(N·T'+T)</sup>. The first **N·T'** frames of **Z�
   <img src="assets/dynamicpromt.png" alt="Illustration" width="70%">
 </div>
 
-*Note:* In equations, red text indicates learnable parameters and blue indicates frozen ones. The symbol “;” denotes time-axis concatenation.
-
 ```bibtex
 @inproceedings{li2024parameter,
   title={Parameter-efficient Fine-tuning of Speaker-Aware Dynamic Prompts for Speaker Verification},
