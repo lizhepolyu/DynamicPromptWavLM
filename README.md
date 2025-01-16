@@ -58,7 +58,7 @@ $$
 
 with **Zᵢ** ∈ ℝ<sup>D×(N·T'+T)</sup>. The first **N·T'** frames of **Zᵢ** are dropped, and the remaining **T** frames become **Xᵢ**. This repeats for each subsequent layer, prepending new prompts as needed.
 
-<div style="text-align:center">
+<div align="center">
   <img src="assets/dynamicpromt.png" alt="Illustration" width="70%">
 </div>
 
